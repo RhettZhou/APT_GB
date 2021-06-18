@@ -1,0 +1,9 @@
+[Ions]
+Number=2
+Ion1=Cr
+Ion2=Fe
+
+[Ranges]
+Number=2
+Range1=25.5000 26.5000 Vol:0.00000 Cr:1 Color:0000FF
+Range2=27.5000 28.5000 Vol:0.00000 Fe:1 Color:FF0000
