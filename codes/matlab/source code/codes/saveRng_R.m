@@ -149,7 +149,7 @@ else
     mcHead = '---------------------';
 end
 mcEleStr = [];
-for i = 1:atomLen
+for i = 1:length(atoms)
     mcHead = [char(mcHead) ' ' char(atoms(i))];
     mcEleStr = [mcEleStr atoms(i)];
 end
