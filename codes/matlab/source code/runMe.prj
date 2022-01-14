@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="368877264" file="D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe.prj" location="D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code" name="runMe" preferred-package-location="D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="368877264" file="D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\source code\runMe.prj" location="D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\source code" name="runMe" preferred-package-location="D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>APT_GB</param.appname>
     <param.icon>${PROJECT_ROOT}\runMe_resources\icon.ico</param.icon>
     <param.icons>
@@ -8,19 +8,19 @@
       <file>${PROJECT_ROOT}\runMe_resources\icon_24.png</file>
       <file>${PROJECT_ROOT}\runMe_resources\icon_16.png</file>
     </param.icons>
-    <param.version>1.0</param.version>
+    <param.version>1.3</param.version>
     <param.authnamewatermark>Xuyang Zhou</param.authnamewatermark>
     <param.email>x.zhou@mpie.de</param.email>
     <param.company>MPIE &amp; U of Alabama</param.company>
-    <param.summary>Help identify grain boundaries from atom probe datasets for mapping interfacial excesses and concentrations. June 18 2021</param.summary>
+    <param.summary>Help identify grain boundaries from atom probe datasets for mapping interfacial excesses and concentrations. 14 Jan 2022</param.summary>
     <param.description>This app is used for atom probe tomography grain boundary analysis. The 3D atom probe tip is projected to a 2D concentration map. After applying filter and machine learning identification, grain boundary could be automatically detected and its interfacical excess and concentration could be quantified. Acknowledgement: Peter Felfer, Anna Ceguerra, Varvara Efremova, Ye Wei, Markus Kühbach, Huan Zhao, Florian Vogel, Reza Darvishi Kamachali, Baptise Gault, Gregory B Thompson, Dierk Raabe.
 - Please use the defaut folder for the installation.
 - Users must also install Blender 2.92.0. Please also use the default folder.</param.description>
-    <param.screenshot>D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\icon\APT_GB_400.png</param.screenshot>
+    <param.screenshot>D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\icon\APT_GB_400.png</param.screenshot>
     <param.guid />
     <param.installpath.string>\APT_GB\</param.installpath.string>
     <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
-    <param.logo>D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\icon\APT_GB.png</param.logo>
+    <param.logo>D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\icon\APT_GB.png</param.logo>
     <param.install.notes>!!IMPORTANT!!
 
 - Please use the defaut folder for the installation.
@@ -49,7 +49,6 @@
     <param.example />
     <param.help.text />
     <unset>
-      <param.version />
       <param.authnamewatermark />
       <param.email />
       <param.company />
@@ -138,9 +137,9 @@
       <file>${PROJECT_ROOT}\codes\euler_parameters</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\runMe\for_testing" name="readme.txt" optional="true">D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe\for_testing\readme.txt</file>
-      <file location="${PROJECT_ROOT}\runMe\for_testing" name="APT_GB.exe" optional="false">D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe\for_testing\APT_GB.exe</file>
-      <file location="${PROJECT_ROOT}\runMe\for_testing" name="splash.png" optional="false">D:\IE maps\APT_GB_V1.0_20210618 - Copy\codes_temp\matlab\source code\runMe\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\runMe\for_testing" name="APT_GB.exe" optional="false">D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\source code\runMe\for_testing\APT_GB.exe</file>
+      <file location="${PROJECT_ROOT}\runMe\for_testing" name="splash.png" optional="false">D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\source code\runMe\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\runMe\for_testing" name="readme.txt" optional="true">D:\IE maps\APT_GB_V1.3_20220114\codes\matlab\source code\runMe\for_testing\readme.txt</file>
     </build-deliverables>
     <workflow />
     <matlab>
