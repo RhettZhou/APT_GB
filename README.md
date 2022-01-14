@@ -21,7 +21,7 @@ Installation:
 
 Please use, edit and distribute it freely!  Please do not use it for commercial purposes!
 
-Xuyang Zhou, Ye Wei, Markus Kühbach, Huan Zhao, Florian Vogel, Reza Darvishi Kamachali, Gregory B. Thompson, Dierk Raabe, Baptiste Gault, Revealing in-plane grain boundary composition features through machine learning from atom probe tomography data, Preprint arXiv (2021)
+Xuyang Zhou, Ye Wei, Markus Kühbach, Huan Zhao, Florian Vogel, Reza Darvishi Kamachali, Gregory B. Thompson, Dierk Raabe, Baptiste Gault, Revealing in-plane grain boundary composition features through machine learning from atom probe tomography data, Preprint arXiv (2021) https://arxiv.org/abs/2106.10027
 
 Acknowledgement: Peter Felfer, Anna Ceguerra, Varvara Efremova, Ye Wei, Markus Kühbach, Huan Zhao, Florian Vogel, Reza Darvishi Kamachali, Baptise Gault, Gregory B Thompson, Dierk Raabe.
 
